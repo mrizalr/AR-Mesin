@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: c27127c2022c56d43b4ee6f08a555a13
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Axels
+    100002: Body
+    100004: Box
+    100006: Cabin
+    100008: Camera
+    100010: Chair
+    100012: Engine
+    100014: Exhaust
+    100016: Fenders
+    100018: Forklift
+    100020: Gas Tank
+    100022: Headlight Guards
+    100024: Headlights
+    100026: Horn
+    100028: //RootNode
+    100030: Lamp
+    100032: Lift  plate
+    100034: Lift Arm
+    100036: Lift head
+    100038: Mirror
+    100040: Piston
+    100042: Piston house
+    100044: Pivot1
+    100046: Pivot2
+    100048: Pivot3
+    100050: Pivot4
+    100052: Pivot4.001
+    100054: Rings
+    100056: Steering
+    100058: Sun
+    100060: Tank
+    100062: Tires
+    100064: Vents
+    100066: Vents.001
+    100068: Windows
+    400000: Axels
+    400002: Body
+    400004: Box
+    400006: Cabin
+    400008: Camera
+    400010: Chair
+    400012: Engine
+    400014: Exhaust
+    400016: Fenders
+    400018: Forklift
+    400020: Gas Tank
+    400022: Headlight Guards
+    400024: Headlights
+    400026: Horn
+    400028: //RootNode
+    400030: Lamp
+    400032: Lift  plate
+    400034: Lift Arm
+    400036: Lift head
+    400038: Mirror
+    400040: Piston
+    400042: Piston house
+    400044: Pivot1
+    400046: Pivot2
+    400048: Pivot3
+    400050: Pivot4
+    400052: Pivot4.001
+    400054: Rings
+    400056: Steering
+    400058: Sun
+    400060: Tank
+    400062: Tires
+    400064: Vents
+    400066: Vents.001
+    400068: Windows
+    2000000: Camera
+    2100000: Yellow metal
+    2100002: UGM001.001
+    2100004: Black vinyl
+    2100006: Rubber
+    2100008: Material
+    2100010: Black metal.001
+    2100012: White Glass
+    2100014: Yellow Glass
+    2300000: Axels
+    2300002: Body
+    2300004: Box
+    2300006: Cabin
+    2300008: Chair
+    2300010: Engine
+    2300012: Exhaust
+    2300014: Fenders
+    2300016: Forklift
+    2300018: Gas Tank
+    2300020: Headlight Guards
+    2300022: Headlights
+    2300024: Horn
+    2300026: Lift  plate
+    2300028: Lift Arm
+    2300030: Lift head
+    2300032: Mirror
+    2300034: Piston
+    2300036: Piston house
+    2300038: Pivot1
+    2300040: Pivot2
+    2300042: Pivot3
+    2300044: Pivot4
+    2300046: Pivot4.001
+    2300048: Rings
+    2300050: Steering
+    2300052: Tank
+    2300054: Tires
+    2300056: Vents
+    2300058: Vents.001
+    2300060: Windows
+    3300000: Axels
+    3300002: Body
+    3300004: Box
+    3300006: Cabin
+    3300008: Chair
+    3300010: Engine
+    3300012: Exhaust
+    3300014: Fenders
+    3300016: Forklift
+    3300018: Gas Tank
+    3300020: Headlight Guards
+    3300022: Headlights
+    3300024: Horn
+    3300026: Lift  plate
+    3300028: Lift Arm
+    3300030: Lift head
+    3300032: Mirror
+    3300034: Piston
+    3300036: Piston house
+    3300038: Pivot1
+    3300040: Pivot2
+    3300042: Pivot3
+    3300044: Pivot4
+    3300046: Pivot4.001
+    3300048: Rings
+    3300050: Steering
+    3300052: Tank
+    3300054: Tires
+    3300056: Vents
+    3300058: Vents.001
+    3300060: Windows
+    4300000: Body
+    4300002: Lift Arm
+    4300004: Pivot3
+    4300006: Lift head
+    4300008: Rings
+    4300010: Lift  plate
+    4300012: Forklift
+    4300014: Pivot4.001
+    4300016: Pivot4
+    4300018: Pivot2
+    4300020: Piston house
+    4300022: Piston
+    4300024: Pivot1
+    4300026: Box
+    4300028: Gas Tank
+    4300030: Tires
+    4300032: Cabin
+    4300034: Tank
+    4300036: Vents
+    4300038: Steering
+    4300040: Chair
+    4300042: Windows
+    4300044: Engine
+    4300046: Vents.001
+    4300048: Exhaust
+    4300050: Fenders
+    4300052: Mirror
+    4300054: Headlight Guards
+    4300056: Horn
+    4300058: Headlights
+    4300060: Axels
+    10800000: Lamp
+    10800002: Sun
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
